@@ -1,0 +1,14 @@
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Packet Tracer temp files
+*.pka.bak
+*.pkt.bak
+
+# Python/Ansible cache
+__pycache__/
+*.pyc
+.ansible/
